@@ -11,7 +11,8 @@ This project demonstrates the design and development of a dynamic Excel dashboar
 ![image_alt](https://github.com/DilrukshiManjula07/Full-Excel-Dashboard-of-Hospital_Emergency_Room/blob/main/ER_Daily_No.%20of%20Patient.jpg)
 
 ### ER_Daily_Patient Satisfaction 
-![image_alt]()
+![image_alt](https://github.com/DilrukshiManjula07/Full-Excel-Dashboard-of-Hospital_Emergency_Room/blob/main/ER_Daily_Patient%20Satisfaction%20.jpg)
+
 - This dashboard helps analyze critical metrics such as:
   - Number of Patients – Total count per day with area sparklines to identify peak days and trends.
   - Average Wait Time – Shows how long patients wait before being seen. Spot delays and optimize staffing.
