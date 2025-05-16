@@ -8,7 +8,7 @@ This project demonstrates the design and development of a dynamic Excel dashboar
 ![image_alt](https://github.com/DilrukshiManjula07/Full-Excel-Dashboard-of-Hospital_Emergency_Room/blob/main/ER_Daily_Average%20Wait%20Time%20.jpg)
 
 ### ER_Daily_No. of Patient
-![image_alt]()
+![image_alt](https://github.com/DilrukshiManjula07/Full-Excel-Dashboard-of-Hospital_Emergency_Room/blob/main/ER_Daily_No.%20of%20Patient.jpg)
 
 ### ER_Daily_Patient Satisfaction 
 ![image_alt]()
